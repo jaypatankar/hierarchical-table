@@ -1,5 +1,8 @@
 # Simple Hierarchical Table Website
 
+## Live Preview
+https://hierarchical-table-mu.vercel.app/
+
 Overview
 This is a ReactJS-based website that displays a hierarchical table with rows containing labels and values. Each row can have child rows, and changes to values automatically update subtotals and the grand total.
 
